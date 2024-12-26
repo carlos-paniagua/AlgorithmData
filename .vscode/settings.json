@@ -5,6 +5,9 @@
         "xlocale": "cpp",
         "xutility": "cpp",
         "ostream": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "limits": "cpp",
+        "cstdlib": "cpp",
+        "abc_095_c": "cpp"
     }
 }
