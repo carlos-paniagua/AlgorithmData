@@ -8,6 +8,8 @@
         "utility": "cpp",
         "limits": "cpp",
         "cstdlib": "cpp",
-        "abc_095_c": "cpp"
+        "abc_095_c": "cpp",
+        "algorithm": "cpp",
+        "istream": "cpp"
     }
 }
