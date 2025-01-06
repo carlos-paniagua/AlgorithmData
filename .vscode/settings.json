@@ -10,6 +10,7 @@
         "cstdlib": "cpp",
         "abc_095_c": "cpp",
         "algorithm": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "xstring": "cpp"
     }
 }
