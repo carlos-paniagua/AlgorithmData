@@ -11,6 +11,7 @@
         "abc_095_c": "cpp",
         "algorithm": "cpp",
         "istream": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "queue": "cpp"
     }
 }
